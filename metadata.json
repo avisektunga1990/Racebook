@@ -1,0 +1,6 @@
+{
+  "name": "Tamralipta Ultra Racer's Handbook",
+  "description": "Official Racer's Handbook for Tamralipta Ultra 2026 (50K, 75K, 100K) in Tamluk, West Bengal. Interactive route guides, aid stations, gear checklist, cut-offs, and downloadable PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
